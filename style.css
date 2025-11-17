@@ -148,7 +148,7 @@ nav .navbar .drop-down select {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    min-height: 90vh;
+    height: 90vh;
     width: 100%;
 }
 
